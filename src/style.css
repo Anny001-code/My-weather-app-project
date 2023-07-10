@@ -33,12 +33,6 @@ li {
   max-width: 600px;
 }
 
-.weather-icon {
-  height: 64px;
-  width: 64px;
-  margin-right: 10px;
-}
-
 .temperature {
   color: #ffffff;
   font-size: 64px;
@@ -54,4 +48,7 @@ li {
 
 .search-form {
   margin-bottom: 20px;
+}
+a {
+  margin-left: 0px;
 }
